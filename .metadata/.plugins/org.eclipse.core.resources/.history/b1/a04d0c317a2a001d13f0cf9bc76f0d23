@@ -1,0 +1,21 @@
+package in.co.hsbc.secondpro;
+
+public class StaticDemo {
+
+	private static int x=100;
+	
+	public static void main(String[] args) {
+		
+		System.out.println(x);
+		 new StaticDemo().m1();
+		
+		
+	}
+	
+	
+	public void m1() {
+		System.out.println("This is m1()....");
+	}
+}
+
+

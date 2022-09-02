@@ -1,0 +1,21 @@
+package in.co.hsbc.secondpro;
+
+public class ToyTest3 {
+
+	
+	public static void main(String[] args) {
+		Toy t1 =  new Toy();
+		t1.setCode("123");
+		t1.setName("Car");
+		t1.setAgegroup("8Y");
+		
+		Toy t2 =  new Toy();
+		t1.setCode("456");
+		t1.setName("Teddy");
+		t1.setAgegroup("1Y");
+		
+		
+		
+		
+	}
+}

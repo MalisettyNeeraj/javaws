@@ -1,0 +1,12 @@
+package in.co.hsbc.firstpro.d2;
+
+public class MDArray {
+
+	
+	public static void main(String[] args) {
+		
+		int nos[][] = new int[2][3];
+		
+		
+ 	}
+}

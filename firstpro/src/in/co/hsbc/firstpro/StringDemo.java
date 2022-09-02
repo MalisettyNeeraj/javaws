@@ -1,0 +1,22 @@
+package in.co.hsbc.firstpro;
+
+public class StringDemo {
+	
+	public static void main(String[] args) {
+		
+		String str1 = "Hello World!!";
+		System.out.println(str1);
+		String str2 = new String("Hello HSBC!!");
+		System.out.println(str2);
+		
+		String cities[] = {"Munich","Manila"};
+		String msg[] = new String[3];
+		msg[0] = "Hi!!";
+		
+		System.out.println(cities[0]);
+		
+		
+		
+	}
+
+}

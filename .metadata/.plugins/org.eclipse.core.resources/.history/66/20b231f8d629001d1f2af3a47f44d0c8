@@ -1,0 +1,13 @@
+package in.co.hsbc.firstpro.model;
+
+public class Customer {
+	
+	private String fname;
+	private String email;
+	
+	
+	public void setDate(String fname,String email) {
+		this.fname = fname;
+		this.email = email;
+	}
+}

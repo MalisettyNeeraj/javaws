@@ -1,0 +1,9 @@
+package in.co.hsbc.firstpro.model;
+
+public class Employee {
+	private String name;
+	private String email;
+	
+	
+
+}

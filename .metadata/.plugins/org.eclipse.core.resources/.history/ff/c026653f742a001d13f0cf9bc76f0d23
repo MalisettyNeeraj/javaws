@@ -1,0 +1,11 @@
+package in.co.hsbc.secondpro;
+
+public class ToyTest {
+
+	
+	public static void main(String[] args) {
+		Toy t =  new Toy();
+		
+		
+	}
+}

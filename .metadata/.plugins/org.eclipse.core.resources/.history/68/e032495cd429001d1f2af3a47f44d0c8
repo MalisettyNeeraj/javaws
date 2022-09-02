@@ -1,0 +1,12 @@
+package in.co.hsbc.firstpro;
+
+public class StringDemo {
+	
+	public static void main(String[] args) {
+		
+		String str = "Hello World!!";
+		System.out.println(str);
+		
+	}
+
+}

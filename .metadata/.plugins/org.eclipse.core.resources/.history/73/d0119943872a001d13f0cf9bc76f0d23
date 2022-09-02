@@ -1,0 +1,12 @@
+package in.co.hsbc.thirdpro;
+
+public class CalcTest {
+
+	
+	public static void main(String[] args) {
+		
+		Calc c = new Calc();
+		
+		
+	}
+}

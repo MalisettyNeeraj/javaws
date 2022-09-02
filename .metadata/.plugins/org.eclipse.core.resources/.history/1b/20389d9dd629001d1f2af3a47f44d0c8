@@ -1,0 +1,8 @@
+package in.co.hsbc.firstpro.model;
+
+public class Customer {
+	
+	public String fname;
+	public String email;
+	
+}

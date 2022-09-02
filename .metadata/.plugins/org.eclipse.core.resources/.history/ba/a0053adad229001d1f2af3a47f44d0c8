@@ -1,0 +1,22 @@
+package in.co.hsbc.firstpro;
+
+public class Datatypes {
+	
+	
+	public static void main(String[] args) {
+		
+		
+		int a=100;
+		byte b=65;
+		boolean bl = true;
+		float f = 100.23f;
+		double d = 300.2333;
+		System.out.println(a);
+		System.out.println((char)b);
+		System.out.println(bl);
+		System.out.println(f);
+		System.out.println(d);
+		
+	}
+
+}

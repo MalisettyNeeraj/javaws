@@ -1,0 +1,17 @@
+package in.co.hsbc.firstpro.model;
+
+public class CustomerTest {
+
+	
+	public static void main(String[] args) {
+		
+		Customer c = new Customer();
+		
+		c.fname = "Jack";
+		c.email = "sparrow@msn.com";
+		System.out.println(c.fname);
+		System.out.println(c.email);
+		
+		
+	}
+}

@@ -1,0 +1,10 @@
+package in.co.hsbc.firstpro.model;
+
+public class Product {
+	
+	private String code;
+	private String name;
+	private double price;
+	
+
+}

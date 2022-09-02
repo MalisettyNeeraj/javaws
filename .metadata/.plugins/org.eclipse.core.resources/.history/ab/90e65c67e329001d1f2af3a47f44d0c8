@@ -1,0 +1,12 @@
+package in.co.hsbc.firstpro.model;
+
+public class EmployeeTest {
+	
+	public static void main(String[] args) {
+		
+		
+		Employee e = new Employee();
+	
+	}
+
+}

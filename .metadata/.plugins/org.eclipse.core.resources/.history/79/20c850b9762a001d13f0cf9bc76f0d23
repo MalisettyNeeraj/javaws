@@ -1,0 +1,30 @@
+package in.co.hsbc.secondpro;
+
+public class ToyV1 {
+	private String code;
+	private String name;
+	private String agegroup;
+	public ToyV1() {
+		System.out.println("constructor...");
+	}
+	public String getCode() {
+		return code;
+	}
+	public void setCode(String code) {
+		this.code = code;
+	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public String getAgegroup() {
+		return agegroup;
+	}
+	public void setAgegroup(String agegroup) {
+		this.agegroup = agegroup;
+	}
+	
+
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="in.co.hsbc.firstpro.model.Customer"/>
+    <fullyQualifiedTypeName name="in.co.hsbc.firstpro.model.Product"/>
+    <fullyQualifiedTypeName name="in.co.hsbc.firstpro.model.RemoteControl"/>
+    <fullyQualifiedTypeName name="in.co.hsbc.firstpro.model.TV"/>
+    <fullyQualifiedTypeName name="in.co.hsbc.firstpro.model.CalculatorService"/>
+    <fullyQualifiedTypeName name="in.co.hsbc.firstpro.model.Address"/>
+    <fullyQualifiedTypeName name="in.co.hsbc.firstpro.model.Employee"/>
+    <fullyQualifiedTypeName name="in.co.hsbc.firstpro.d2.Message"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="in.co.hsbc.secondpro.StaticDemo"/>
+    <fullyQualifiedTypeName name="in.co.hsbc.secondpro.Toy"/>
+    <fullyQualifiedTypeName name="in.co.hsbc.secondpro.p1.Customer"/>
+    <fullyQualifiedTypeName name="in.co.hsbc.thirdpro.CalcService"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="in.co.hsbc.thirdpro.GreetingService"/>
+    <fullyQualifiedTypeName name="in.co.hsbc.thirdpro.Book"/>
+</qualifiedTypeNameHistroy>

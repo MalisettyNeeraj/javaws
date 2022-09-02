@@ -1,0 +1,17 @@
+
+package in.co.hsbc.secondpro.p2;
+
+
+
+public class CustomerTest {
+
+	
+	public static void main(String[] args) {
+		
+		Customer c;
+		
+		
+	}
+}
+
+import in.co.hsbc.secondpro.p1.Customer;

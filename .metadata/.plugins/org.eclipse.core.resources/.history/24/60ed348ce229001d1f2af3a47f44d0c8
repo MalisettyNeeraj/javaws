@@ -1,0 +1,13 @@
+package in.co.hsbc.firstpro.model;
+
+public class CalculatorServiceTest {
+	
+	public static void main(String[] args) {
+		
+		
+		CalculatorService cs = new CalculatorService();
+		
+		int res  = cs.add(10, 20)
+	}
+
+}

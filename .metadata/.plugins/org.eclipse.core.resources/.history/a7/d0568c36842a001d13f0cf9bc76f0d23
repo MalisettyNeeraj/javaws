@@ -1,0 +1,8 @@
+package in.co.hsbc.secondpro.p1;
+
+public class Customer {
+	
+	String fullname;
+	
+
+}

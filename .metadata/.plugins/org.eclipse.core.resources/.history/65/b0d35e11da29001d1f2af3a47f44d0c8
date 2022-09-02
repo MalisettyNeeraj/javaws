@@ -1,0 +1,14 @@
+package in.co.hsbc.firstpro.model;
+
+public class TV {
+	
+	private String make;
+	private boolean power;
+	private int vol;
+	
+	public TV(String make) {
+		this.make = make;
+	}
+	
+
+}

@@ -1,0 +1,13 @@
+package in.co.hsbc.firstpro.model;
+
+public class CustomerTest {
+
+	
+	public static void main(String[] args) {
+		
+		Customer c = new Customer();
+		
+		
+		
+	}
+}

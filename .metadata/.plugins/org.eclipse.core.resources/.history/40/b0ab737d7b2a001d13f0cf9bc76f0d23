@@ -1,0 +1,24 @@
+package in.co.hsbc.secondpro;
+
+public class CallByRefValue {
+
+	public static void main(String[] args) {
+		int nos[] = {100,200,300};
+		
+		for (int i : nos) {
+			System.out.println(i);
+		}
+		
+		System.out.println("_______________________________");
+		change(nos);
+	}
+	
+	
+	public static void change(int arr[]) {
+		arr[0] = 1;
+		arr[1] = 2;
+		
+		
+	}
+
+}

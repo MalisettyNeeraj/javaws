@@ -1,0 +1,18 @@
+package in.co.hsbc.firstpro.model;
+
+public class RemoteControlTest {
+
+	public static void main(String[] args) {
+		
+		
+		TV tv = new TV("Toshiba");
+		RemoteControl rc = new RemoteControl(tv);
+		rc.switchON();
+		rc.volPlus();
+		rc.volPlus();
+		rc.volPlus();
+		
+		
+		
+	}
+}

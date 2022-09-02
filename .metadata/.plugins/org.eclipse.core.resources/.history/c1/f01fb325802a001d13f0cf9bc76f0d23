@@ -1,0 +1,18 @@
+package in.co.hsbc.secondpro.arr;
+
+public class MArray {
+
+	
+	public static void main(String[] args) {
+		
+		
+		//int nos[] = new int[10];
+		int nos[][] = new int [2][3];
+		
+		nos[0][0] = 100;
+		nos[0][1] = 200;
+		nos[0][2] = 200;
+		
+		
+	}
+}

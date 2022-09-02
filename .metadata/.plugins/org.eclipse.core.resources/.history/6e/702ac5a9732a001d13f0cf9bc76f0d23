@@ -1,0 +1,9 @@
+package in.co.hsbc.secondpro;
+
+public class Toy {
+	private String code;
+	private String name;
+	private String agegroup;
+	
+
+}

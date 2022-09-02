@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+D:\trainings\HSBC\javaws\.metadata\.plugins\org.eclipse.jdt.core
+1422397981.index
+4076144693.index
+1853143456.index
+3620533180.index
+1865797976.index

@@ -1,0 +1,14 @@
+package in.co.hsbc.thirdpro;
+
+import in.co.hsbc.utils.Calc;
+
+public class CalcTest {
+
+	
+	public static void main(String[] args) {
+		
+		Calc c = new Calc();
+		
+		
+	}
+}

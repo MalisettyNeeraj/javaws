@@ -1,0 +1,21 @@
+package in.co.hsbc.firstpro.model;
+
+public class RemoteControl {
+	
+	private TV tv;
+
+	public RemoteControl(TV tv) {
+				this.tv = tv;
+	}
+	
+	
+	public void switchON() {
+		tv.switchON();
+	}
+	
+	public void switchOFF() {
+		tv.switchOFF();
+	}
+	
+
+}

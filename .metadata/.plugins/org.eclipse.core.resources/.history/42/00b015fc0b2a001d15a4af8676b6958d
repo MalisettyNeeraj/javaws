@@ -1,0 +1,9 @@
+package in.co.hsbc.firstpro.d2;
+
+public class Message {
+	
+	private String msg="Hello World!!";
+	
+	
+
+}

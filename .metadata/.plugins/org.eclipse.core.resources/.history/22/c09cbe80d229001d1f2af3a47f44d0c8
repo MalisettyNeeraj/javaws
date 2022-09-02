@@ -1,0 +1,13 @@
+package in.co.hsbc.firstpro;
+
+public class Datatypes {
+	
+	
+	public static void main(String[] args) {
+		
+		
+		int a;
+		System.out.println(a);
+	}
+
+}

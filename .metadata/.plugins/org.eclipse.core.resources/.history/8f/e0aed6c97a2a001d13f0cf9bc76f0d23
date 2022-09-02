@@ -1,0 +1,15 @@
+package in.co.hsbc.secondpro;
+
+public class StaticDemo2 {
+	
+ private static int x ;
+ private static int y ;
+ 
+ public StaticDemo2() {
+	 x = 100;
+	 y = 200;
+}
+ 
+}
+
+

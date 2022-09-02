@@ -1,0 +1,10 @@
+package in.co.hsbc.firstpro.model;
+
+public class Calculator {
+	
+	
+	public void add(int a, int b) {
+		return a+b;
+	}
+
+}

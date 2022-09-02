@@ -1,0 +1,13 @@
+package in.co.hsbc.secondpro;
+
+public class StaticDemo {
+
+	int x;
+	
+	public static void main(String[] args) {
+		
+		
+	}
+}
+
+

@@ -1,0 +1,14 @@
+package in.co.hsbc.thirdpro;
+
+public class GreetingService {
+	
+	public GreetingService() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	public String greet() {
+		return "Hello HSBC!!";
+		
+	}
+
+}
