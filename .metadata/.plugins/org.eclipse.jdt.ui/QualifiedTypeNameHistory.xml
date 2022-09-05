@@ -16,4 +16,15 @@
     <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
     <fullyQualifiedTypeName name="in.co.hsbc.thirdpro.GreetingService"/>
     <fullyQualifiedTypeName name="in.co.hsbc.thirdpro.Book"/>
+    <fullyQualifiedTypeName name="com.prepro.Person"/>
+    <fullyQualifiedTypeName name="com.prepro.Employee"/>
+    <fullyQualifiedTypeName name="com.prepro.AutoLoan"/>
+    <fullyQualifiedTypeName name="com.prepro.Toy"/>
+    <fullyQualifiedTypeName name="com.prepro.Product"/>
+    <fullyQualifiedTypeName name="com.prepro.Laptop"/>
+    <fullyQualifiedTypeName name="com.prepro.Member"/>
+    <fullyQualifiedTypeName name="com.prepro.Emp"/>
+    <fullyQualifiedTypeName name="com.prepro.ManagerTest"/>
+    <fullyQualifiedTypeName name="com.prepro.Manager"/>
+    <fullyQualifiedTypeName name="com.prepro.Animal"/>
 </qualifiedTypeNameHistroy>
